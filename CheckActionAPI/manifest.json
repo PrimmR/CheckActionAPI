@@ -1,0 +1,9 @@
+{
+    "Name": "Check Action API",
+    "Author": "Primm",
+    "Version": "0.0.1",
+    "Description": "",
+    "UniqueID": "Primm.CheckActionAPI",
+    "EntryDll": "CheckActionAPI.dll",
+    "MinimumApiVersion": "4.0.0"
+}
