@@ -14,9 +14,9 @@ Download the dll from **Releases** and place it somewhere inside your project fo
 Add the following inside the `<Project>` tag of your `.csproj` file, replacing the path so it correctly points to the dll file:  
 ```xml
 <ItemGroup>
-<Reference Include="CheckActionAPI">
-    <HintPath>{path}/CheckActionAPI.dll</HintPath>
-</Reference>
+    <Reference Include="CheckActionAPI">
+        <HintPath>{path}/CheckActionAPI.dll</HintPath>
+    </Reference>
 </ItemGroup>
 ```
 
